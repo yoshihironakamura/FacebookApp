@@ -16,3 +16,8 @@
  footer{
      position: absolute;/* ←絶対位置 */
      bottom: 0;
+   }
+
+   header{
+     background-color: skyblue
+   }
